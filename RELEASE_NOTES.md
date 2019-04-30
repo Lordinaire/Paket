@@ -1,3 +1,6 @@
+#### 5.203.3 - 2019-04-30
+* BUGFIX: Fixed #3535 - https://github.com/Lordinaire/Paket/commit/c46aa632710640aa07affcb4f0917aa096508819
+
 #### 5.203.2 - 2019-04-15
 * BUGFIX: Fixed #3459, #3418 and #3375 - https://github.com/fsprojects/Paket/pull/3554
 
